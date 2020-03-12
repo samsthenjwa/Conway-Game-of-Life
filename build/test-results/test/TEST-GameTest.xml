@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-03-12T09:59:03" hostname="admin1-ThinkCentre-M72e" time="0.003">
+  <properties/>
+  <testcase name="MoreNeighbours" classname="GameTest" time="0.001"/>
+  <testcase name="DeadCells" classname="GameTest" time="0.0"/>
+  <testcase name="FewerNeighbours" classname="GameTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
